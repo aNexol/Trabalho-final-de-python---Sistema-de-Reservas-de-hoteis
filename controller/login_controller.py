@@ -1,4 +1,4 @@
-from model import usuarios
+from model.usuarios import usuarios
 
 def validar_login(usuario, senha):
 
